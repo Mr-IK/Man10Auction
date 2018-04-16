@@ -1,0 +1,10 @@
+name: Man10Auction
+version: 1.0.0
+main: red.man10.Man10Auction
+authors: [Mr_IK]
+description: Man10_Auction_Plugin
+commands:
+  ma:
+    description: Man10Auctionallcommand
+    usage: /<command>
+    default: op
